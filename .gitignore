@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/
+*.pt
+*.pth
+results/synthetic_ehr/
+.ipynb_checkpoints/
+.DS_Store
+runs/
