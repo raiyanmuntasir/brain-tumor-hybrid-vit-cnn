@@ -8,7 +8,7 @@ A PyTorch implementation of a hybrid convolutional / Vision-Transformer classifi
 
 Open implementation accompanying:
 
-> Monim, R. M., Islam, K., Asad, S. M., Hussain, M. A., Hossen, B., Manjar, M. T. A., & Sultana, S. (2026). *Generative AI for early disease detection: Hybrid ViT-CNN with multi-head attention in medical imaging.* Journal of Information Systems Engineering and Management, 11(2s).
+> Monim, R. M., Islam, K., Asad, S. M., Hussain, M. A., Hossen, B., Manjar, M. T. A., & Sultana, S. (2026). *Generative AI for early disease detection: Hybrid ViT-CNN with multi-head attention in medical imaging.* Journal of Information Systems Engineering and Management, 11(2s), 655–676. https://doi.org/10.52783/jisem.v11i2s.14462
 
 ## Architecture
 
