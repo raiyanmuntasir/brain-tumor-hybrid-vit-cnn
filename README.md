@@ -3,7 +3,6 @@
 [![tests](https://github.com/raiyanmuntasir/brain-tumor-hybrid-vit-cnn/actions/workflows/ci.yml/badge.svg)](https://github.com/raiyanmuntasir/brain-tumor-hybrid-vit-cnn/actions/workflows/ci.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![pytorch](https://img.shields.io/badge/PyTorch-2.3%2B-ee4c2c)
-![license](https://img.shields.io/badge/license-MIT-green)
 
 A PyTorch implementation of a hybrid convolutional / Vision-Transformer classifier with multi-head self-attention. It classifies brain MRI slices as **glioma, meningioma, pituitary tumour or no tumour**, and includes Grad-CAM and attention-rollout explanations, matched CNN-only and ViT-only ablations, and a train/test leakage checker for the public dataset.
 
@@ -98,7 +97,3 @@ tests/         unit and smoke tests (run in CI)
 ## Limitations
 
 The model works on single 2-D slices from a public, multi-source dataset. It is not validated on clinical scanners, other sequences or 3-D volumes. Research code only, not a medical device.
-
-## License
-
-MIT © Raiyan Muntasir Monim
